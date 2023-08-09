@@ -16,7 +16,7 @@
 
 <!--- 📝 I regularly write articles on [LinkedIn](https://www.linkedin.com/in/elias-micha%C3%ABl-kouakou-4a4006195/)-->
 
-- 💬 Ask me about ** Python development **
+- 💬 Ask me about **Python development**
 
 - 📫 How to reach me **elimikouakou@gmail.com**
 

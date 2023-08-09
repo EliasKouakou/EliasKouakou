@@ -14,7 +14,7 @@
 
 <!-- - 👨‍💻 All of my projects are available at [peterkimanzi](https://peterkimanzi.netlify.app/) -->
 
-- 📝 I regularly write articles on [LinkedIn](https://www.linkedin.com/in/elias-micha%C3%ABl-kouakou-4a4006195/)
+<!--- 📝 I regularly write articles on [LinkedIn](https://www.linkedin.com/in/elias-micha%C3%ABl-kouakou-4a4006195/)-->
 
 - 💬 Ask me about ** Python development **
 
